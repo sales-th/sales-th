@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sales-th, engineer and financial analyst
-- 🌱 I’m currently learning python and I'm interested in tools to automate some process and mathematics that is useful in my job
+- 🌱 I’m currently learning python and I'm interested in tools to automate some process and mathematics that is useful at my job
 - 📫 How to reach me thiagomrsales@gmail.com
 
 <!---
